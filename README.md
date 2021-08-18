@@ -32,7 +32,7 @@ Below I will write the warehouse address of the original author of some of the r
 
 Thanks to the following authors:
 - ( Listed In No Particular Order )
-- yifang
+- yifaang
 - aedoo
 - Bywalks
 - maurosoria
