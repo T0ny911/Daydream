@@ -29,3 +29,10 @@ Below I will write the warehouse address of the original author of some of the r
 - https://github.com/aedoo/BaiDuUrlSpider
 - https://github.com/Bywalks/TrackAttacker
 - https://github.com/maurosoria/dirsearch
+
+Thanks to the following authors:
+- ( Listed In No Particular Order )
+- yifang
+- aedoo
+- Bywalks
+- maurosoria
