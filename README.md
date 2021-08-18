@@ -25,7 +25,6 @@ Or you can watch the operation demo below
 There are two other search engine subdomain tools in the 01_sub_domain/ directory, you can go in and use them if necessary, or you can go in and modify some manage.py files to call them.In addition, I will comment on the usage of the tool in every tool code in the toolbox, so you don’t have to worry about the trouble of operation.
 
 Below I will write the warehouse address of the original author of some of the reference tools in the toolbox :
-
 ( Listed In No Particular Order )
 - https://github.com/aedoo/BaiDuUrlSpider
 - https://github.com/Bywalks/TrackAttacker
