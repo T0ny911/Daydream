@@ -1,5 +1,5 @@
 # About Daydream
-When penetration testers conduct penetration tests on websites, for some reasons, they may lack some useful tools, which makes it impossible to complete the penetration test project. Therefore, the daydream penetration testing toolbox came into being. I collected some python penetration tools, which are very convenient to operate. Although as a newbie in penetration testing, due to too little experience, the collected penetration testing tools are not many for me, but I will continue to update and add them in the future.
+When penetration testers conduct penetration tests on websites, for some reasons, they may lack some useful tools, which makes it impossible to complete the penetration test project. Thus, the daydream penetration testing toolbox came into being. I have collected some python penetration tools, which are very convenient to operate. Although as a newbie in penetration testing, due to too little experience, the collected penetration testing tools are not many for me, but I will continue to update more novel testing tools in the future, but in the process of using tools Obey the local laws, otherwise you will be responsible for the consequences.
 
 ### How To Install In Linux
 - wget https://github.com/T0ny911/Daydream/releases/download/Daydream-v1.0/Daydream_v1.0.zip
