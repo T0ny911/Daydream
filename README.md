@@ -1,14 +1,14 @@
 # About Daydream
-When penetration testers are pentesting websites, they may lack some helpful tools due to some reasons, which may make it impossible to complete the penetration test project. Therefore, the daydream penetration test toolbox came into being with integrated I have collected some python penetration tools, which are very convenient to operate. Although as a newbie in penetration testing, due to too little experience, there are not many penetration testing tools collected, but they will continue to be updated and added.
+When penetration testers conduct penetration tests on websites, for some reasons, they may lack some useful tools, which makes it impossible to complete the penetration test project. Therefore, the daydream penetration testing toolbox came into being. I collected some python penetration tools, which are very convenient to operate. Although as a newbie in penetration testing, due to too little experience, the collected penetration testing tools are not many for me, but I will continue to update and add them in the future.
 
-### HOW TO INSTALL IN LINUX
+### How To Install In Linux
 - wget https://github.com/T0ny911/Daydream/releases/download/Daydream-v1.0/Daydream_v1.0.zip
 - unzip Daydream_v1.0.zip
 - cd Daydream_v1.0
 - pip3 install -r requirements.txt
 - python3 manage.py
 
-### HOW TO USE THE TOOL
+### How To Use The Tool
 Example:
 python3 manage.py
 - help
@@ -22,5 +22,11 @@ Or you can watch the operation demo below
 
 ### Tips:
 
-There are two other search engine subdomain tools in the 01_sub_domain/ directory, you can go in and use them if necessary, or you can go in and modify some manage.py files to call them
+There are two other search engine subdomain tools in the 01_sub_domain/ directory, you can go in and use them if necessary, or you can go in and modify some manage.py files to call them.In addition, I will comment on the usage of the tool in every tool code in the toolbox, so you don’t have to worry about the trouble of operation.
 
+Below I will write the warehouse address of the original author of some of the reference tools in the toolbox :
+
+( Listed In No Particular Order )
+- https://github.com/aedoo/BaiDuUrlSpider
+- https://github.com/Bywalks/TrackAttacker
+- https://github.com/maurosoria/dirsearch
