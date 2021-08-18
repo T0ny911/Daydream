@@ -16,7 +16,7 @@ python3 manage.py
 - use 01
 - exit
 
-👉 Here is a supplement, the tools used in manage.py do not need to add python3 xxx.py, just add a run directly, and then add parameters afterwards.
+👹👹👹👉👉👉Here to add, the tools used in manage.py do not need to add python3 xxx.py, just add a run directly, and then add parameters. It is recommended to read the readme.md in each tool before using the tool, so that it will be easier for you to use the tool.
 
 Or you can watch the operation demo below:👇👇👇
 
